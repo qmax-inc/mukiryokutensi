@@ -1,0 +1,7 @@
+A very kind person who gave us the solution in a comment on Cien, and I quote from his comment.
+
+
+For people with loading error:
+Before Unzipping the file, move to Control Panel - sth like Location / Region - sth like language for non-unicode programs - change to Japanese - Reboot - unzip downloaded file - (change back to ur language of origin to avoid problems in other programs-) play
+Don't simply change language setting or decode setting in ur decompression tool. Very likely a waste of time as ur system unlikely keeps Japanese symbols in names.
+The key is to make sure your decompression tool and file system could keep all file names in their original Japanese symbol characters (e.g. ，・) during decompression. Solved loading error using this method in more than 5 games.
